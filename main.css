@@ -1,5 +1,6 @@
 body{
     background-color: rgb(236, 236, 236);
+    scroll-behavior: smooth;
 }
 section{
     /* background-color: blue; */
@@ -93,7 +94,7 @@ ul li a{
     margin-top: 5%;
 }
 .pages4{
-  background-color: rgb(206, 205, 205);  
+  background-color: rgb(255, 255, 255);  
   height: 900px;
   justify-content: center;
 }
